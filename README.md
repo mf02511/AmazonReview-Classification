@@ -1,5 +1,5 @@
 # COGS118A Project
-This is a final group project from one of my Machine Learning courses at UC San Diego.
+This is my final group project from an undergraduate machine learning course at UC San Diego.
 
 This project focused on a dataset of Amazon reviews of women's clothing. The goal of the project was to use machine learning methods to build a model that classifies customer reviews into clothing categories in order to recommend a specific category of products to Amazon customers.
 
