@@ -1,10 +1,8 @@
 # COGS118A Project template
-This is your group repo for your final project for COGS118A
+This is a group project from one of my Machine Learning courses.
 
-This repository is publicly visible! We will be using that feature to do peer review of projects.
+This project focused on a dataset of Amazon reviews of women's clothing. The goal of the project was to use machine learning methods to build a model that classifies customer reviews into clothing categories in order to recommend a specific category of products to Amazon customers.
 
-Template notebooks for each component are provided. Only work on the notebook prior to its due date. After each submission is due, move onto the next notebook (For example, after the proposal is due, start working in the Data Checkpoint notebook).
+The main algorithm used in this project is a multi-class classification using logistic regression. Through model and algorithm selection we arrived at a model that takes reivew and reviewer information and classifies them into 6 different categories of women's clothing with an accuracy of 65%.
 
-This is your repo. You are free to manage the repo as you see fit, edit this README, add data files, add scripts, etc. So long as there are the four files above on due dates with the required information, the rest is up to you all.
-
-Also, you are free and encouraged to share this project after the course and to add it to your portfolio. Just be sure to fork it to your GitHub at the end of the quarter!
+Through this project, I reinforced my prior knowledge of various machine learning techniques while tackling an original research question hands-on.
